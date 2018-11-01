@@ -1,0 +1,116 @@
+#logoBox{
+  width:100vw;
+  height:20vh;
+  background-color: #618B4A;
+  border-width: 0px 0px 5px 0px;
+  border-style: solid;
+  border-color: #4E5B33;
+}
+#flowerLogo{
+  width:15vw;
+  height:20vh;
+  background-image: url('https://png2.kisspng.com/20180712/fgt/kisspng-watercolour-flowers-watercolor-painting-art-transp-watercolor-flower-bouquet-5b47986d83d422.67331404153141873354.png');
+  background-size: cover;
+  margin: auto;
+  margin-bottom: 20px;
+}
+#titleWeb{
+  color: white;
+  text-shadow:2px 4px 2px #000000;
+  text-align: center;
+  font-size: 5vh;
+}
+body{
+  background-image: url('http://searene.me/images/forest.jpg');
+  background-size: cover;
+  margin: 0;
+}
+h3{
+  text-align: center;
+  color: #4E5B33;
+}
+button {
+  font-size: 11px;
+  width: 50%;
+  background-color: #FFF989;
+  color: #232918;
+  border-width: 0px;
+}
+ol{
+  color: #232918;
+}
+p{
+  color:#232918;
+}
+#Box1{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-top: 15px;
+        margin-left: 15px;
+      }
+#Box2{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+      }
+#Box3{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+      }
+#Box4{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+      }
+#Box5{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+      }
+#Box6{
+        width:15vw;
+        height:75vh;
+        background-color: #FFF989;
+        border-style: inset;
+        border-color: white;
+        max-height: 75%;
+        overflow: scroll;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+      }
